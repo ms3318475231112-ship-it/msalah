@@ -6,7 +6,7 @@
 - `index.html`: التطبيق كله
 - `manifest.webmanifest`: بيانات التطبيق (الاسم والأيقونة)
 - `sw.js`: بيخلي التطبيق يشتغل أوفلاين
-- `icon-192.png` و `icon-512.png` و `icon-maskable-512.png`: الأيقونات
+- `icon-192.png` و `icon-512.png` و `icon-maskable-512.png` و `apple-touch-icon.png`: الأيقونات
 
 ## الرفع على GitHub
 1. اعمل Repository جديد على github.com.
